@@ -4,11 +4,11 @@
 ### This toolkit is designed for a leading E-Commerce company seeking in-depth marketing insights from their data to craft informed marketing strategies and monitor various Key Performance Indicators (KPIs) and business metrics through an analytical dashboard. The project leverages transactional and customer demographic data from 2019 to drive analyses and predictive modeling.
 
 # Data Overview
-Online_Sales.csv: Transactions at the item and transaction level.
-Customers_Data.csv: Customer demographics.
-Discount_Coupon.csv: Monthly discount coupons by product category.
-Marketing_Spend.csv: Daily marketing expenditures on online and offline channels.
-Tax_Amount.csv: GST details by product category.
+####  Online_Sales.csv: Transactions at the item and transaction level.
+#### Customers_Data.csv: Customer demographics.
+#### Discount_Coupon.csv: Monthly discount coupons by product category.
+#### Marketing_Spend.csv: Daily marketing expenditures on online and offline channels.
+#### Tax_Amount.csv: GST details by product category.
 
 # Business Objectives & Analyses
   #### Revenue Calculation: 
