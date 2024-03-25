@@ -1,7 +1,7 @@
 # Marketing Insights for E-commerce Company
 
 # Project Introduction
-### This toolkit is designed for a leading E-Commerce company seeking in-depth marketing insights from their data to craft informed marketing strategies and monitor various Key Performance Indicators (KPIs) and business metrics through an analytical dashboard. The project leverages transactional and customer demographic data from 2019 to drive analyses and predictive modeling.
+* This toolkit is designed for a leading E-Commerce company seeking in-depth marketing insights from their data to craft informed marketing strategies and monitor various Key Performance Indicators (KPIs) and business metrics through an analytical dashboard. The project leverages transactional and customer demographic data from 2019 to drive analyses and predictive modeling.
 
 # Data Overview
 ####  Online_Sales.csv: Transactions at the item and transaction level.
